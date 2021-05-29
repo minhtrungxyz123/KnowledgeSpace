@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://kbapi.tedu.com.vn',
-  authorityUrl: 'https://kbapi.tedu.com.vn',
+  apiUrl: 'https://kbapi.com.vn',
+  authorityUrl: 'https://kbapi.com.vn',
   clientId: 'angular_admin',
-  adminUrl: 'https://kpadmin.tedu.com.vn/'
+  adminUrl: 'https://kpadmin.com.vn/'
 };
